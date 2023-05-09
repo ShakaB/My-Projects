@@ -12,7 +12,7 @@ con = psycopg2.connect(
     host="localhost",
     database="postgres",
     user="postgres",
-    password="Shaka95%nationzulu")
+    password="********")
 
 print(con)
 
